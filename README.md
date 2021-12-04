@@ -19,7 +19,7 @@ Subi ele aqui simplesmente pra nãp perde-lo pois é sempre bom relembrar como t
 
 **Login para acesso**
 
-email: jonasbastani1999.com
+email: jonasbastani1999@gmail.com
 senha: 123
 
 obs: a maioria das senhas está como padrão 123, este email tem acesso Administrador, a partir dele pode-ser alterar senhas e adicionar novos usuários.
