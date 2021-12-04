@@ -1,0 +1,85 @@
+#div_usuarios
+{
+	overflow: auto;
+}
+
+#dtchamado
+{
+	width: 100%;
+}
+
+
+.modal-content
+{
+	background-color:#1e1e2f;
+}
+
+
+
+
+{
+	background-color: #1e1e2f;
+}
+
+#dt_user_length label
+{
+	color: #fff;
+}
+
+#dt_user_length label select
+{
+	color: #fff;
+	background-color: #1e1e2f;
+}
+
+#dt_user_filter label
+{
+	color: #fff;
+}
+
+#dt_user_filter label input
+{
+	color: #fff;
+}
+
+#dt_user_info
+{
+	color: #fff;
+}
+
+
+
+#dt_chamado_length label
+{
+	color: #fff;
+}
+
+#dt_chamado_length label select
+{
+	color: #fff;
+	background-color: #1e1e2f;
+}
+
+#dt_chamado_filter label
+{
+	color: #fff;
+}
+
+#dt_chamado_filter label input
+{
+	color: #fff;
+}
+
+#dt_chamado_info
+{
+	color: #fff;
+}
+
+
+
+
+
+
+
+
+
