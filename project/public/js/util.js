@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost/w/projeto/";
+const BASE_URL = "http://localhost/helpdesk/project/";
 
 const DATABASE_PTBR = {
     "emptyTable": "Nenhum registro encontrado",
