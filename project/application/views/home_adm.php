@@ -254,7 +254,7 @@
             <script>
               document.write(new Date().getFullYear())
             </script><i class="tim-icons "></i> Sistema desenvolvido por
-            <a href="javascript:void(0)" target="_blank">@Jonas Bastani</a>
+            <a href="https://www.linkedin.com/in/jonas-bastani-31b182211/" target="_blank">@Jonas Bastani</a>
           </div>
 </div>
 <br/>
