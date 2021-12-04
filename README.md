@@ -2,7 +2,7 @@
 
   Um dos meus primeiros projetos utilizando PHP+Codeignaiter, pra ser mais exato o segundo. Infelizmente nessa época ainda nao trabalhava com git então todo o histórico foi perdido.
 É possível melhorar muita coisa nele, principalmente em questão de responsividade, mas a idéia agora é partir para novos projetos com novas tecnologias.
-Subi ele aqui simplesmente pra nãp perde-lo pois é sempre bom relembrar como tudo iniciou-se.
+Subi ele aqui simplesmente pra não perde-lo pois é sempre bom relembrar como tudo iniciou-se.
 
 **O que é necessário pra rodar este projeto?**
 
