@@ -1,5 +1,5 @@
-//const BASE_URL = "https://www.bastani.com.br/helpdesk/project";
-const BASE_URL = "https://www.bastani.com.br/helpdesk/project/";
+//const BASE_URL = "http://localhost/helpdesk/project/";
+const BASE_URL = "http://www.bastani.com.br/helpdesk/project/";
 const DATABASE_PTBR = {
     "emptyTable": "Nenhum registro encontrado",
     "info": "Mostrando de _START_ até _END_ de _TOTAL_ registros",

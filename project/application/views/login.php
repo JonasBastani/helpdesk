@@ -30,7 +30,7 @@
       <section class="container-fluid bg">
         <section class="row justify-content-center">
           <section class="col-12  col-sm-6 col-md-3">
-            <form class="form-container" id="login_form">
+            <form class="form-container" method="post" id="login_form">
               <div id="logoescrita">
                 <img id="logoescrita" src="public/logo/Logoescritabranco.png">
               </div>
@@ -44,11 +44,11 @@
                 <input   type="password" class="form-control" id="senha" name="senha"  placeholder="Insira sua senha">
               </div>
               <div>
-                
-                <a class="btn btn-dark btn-lg btn-block" id="btn-login">Avançar</a>
+                <button type="submit" class="btn btn-dark btn-lg btn-block" id="btn-login">Avançar</button>
+               
                 <span class="help-block text-white"></span>
               </div>
-              
+                
             </form>
             
           </section>
