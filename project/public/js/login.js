@@ -1,39 +1,33 @@
-$(function()
-{
-	$("#btn-login").click(function()
-	{
+$(document).ready(function () {
+
+	$("#btn-login").click(function () {
 		$.ajax({
 			type: "post",
 			url: BASE_URL + "login/ajax_login",
 			dataType: "json",
 			data: $("#login_form").serialize(),
-			beforeSend: function()
-			{
+			beforeSend: function () {
 				clearErros();
 				$("#btn-login").siblings(".help-block").html(loadingImg("<center>Verificando...</ceter>"));
 			},
-			success: function(json)
-			{
+			success: function (json) {
 
-				if(json["status"] == 1)
-				{
+				if (json["status"] == 1) {
 					clearErros();
 					$("#btn-login").siblings(".help-block").html(loadingImg("<center>Logando...</center>"));
 					window.location = BASE_URL + "login";
-					
-					
+
+
 				}
-				else
-				{
+				else {
 					showErrors(json["error_list"]);
 				}
 			},
-			error: function(response)
-			{
+			error: function (response) {
 				console.log(response);
 			}
 		})
 
-		return false;
-	}) 
+		//return false;
+	})
 })
