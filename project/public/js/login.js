@@ -1,12 +1,12 @@
 $(function()
 {
-	$("#login_form").submit(function()
+	$("#btn-login").click(function()
 	{
 		$.ajax({
 			type: "post",
 			url: BASE_URL + "login/ajax_login",
 			dataType: "json",
-			data: $(this).serialize(),
+			data: $("#login_form").serialize(),
 			beforeSend: function()
 			{
 				clearErros();
