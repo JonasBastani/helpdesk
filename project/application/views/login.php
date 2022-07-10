@@ -45,11 +45,11 @@
               </div>
               <div>
                 
+                <a class="btn btn-dark btn-lg btn-block" id="btn-login">Avançar</a>
                 <span class="help-block text-white"></span>
               </div>
               
             </form>
-            <button class="btn btn-dark btn-lg btn-block" id="btn-login">Avançar</button>
             
           </section>
           
