@@ -1,4 +1,4 @@
-const BASE_URL = "https://www.bastani.com.br/helpdesk";
+const BASE_URL = "https://www.bastani.com.br/helpdesk/project";
 
 const DATABASE_PTBR = {
     "emptyTable": "Nenhum registro encontrado",
