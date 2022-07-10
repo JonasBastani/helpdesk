@@ -44,12 +44,12 @@
                 <input   type="password" class="form-control" id="senha" name="senha"  placeholder="Insira sua senha">
               </div>
               <div>
-                <button class="btn btn-dark btn-lg btn-block" id="btn-login">Avançar</button>
-               
+                
                 <span class="help-block text-white"></span>
               </div>
-                
+              
             </form>
+            <button class="btn btn-dark btn-lg btn-block" id="btn-login">Avançar</button>
             
           </section>
           
