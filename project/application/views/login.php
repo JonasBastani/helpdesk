@@ -13,7 +13,7 @@
 
 </head>
 
-<body style="width: 100%;">
+<body style="width: 100vw !important">
     <div class="container">
         <div style="display: flex; justify-content: center; width: 100%; align-items: center;">
             <form method="post" id="login_form">
