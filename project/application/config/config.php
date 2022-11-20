@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 **/
 //$config['base_url'] = 'http://bastani.com.br/helpdesk/project/';
-$config['base_url'] = 'https://bastani.com.br/hpdk/';
+$config['base_url'] = 'https://helpdesk.bastani.com.br/';
 
 
 /*
