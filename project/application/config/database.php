@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'bastani.com.br',
-	'username' => 'u980167070_bastani',
-	'password' => 'RU7gbJXySEGZFfj#',
-	'database' => 'u980167070_helpdesk',
+	'hostname' => '62.72.8.4',
+	'username' => 'jonas_bastani_hp',
+	'password' => '[W]Busr9$w@I1u8U',
+	'database' => 'jonas_helpdesk',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
